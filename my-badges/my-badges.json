@@ -1,0 +1,142 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/AI-for-Robotics/commit/a84cc5663ef2cfcd5a380e4acaa619ae13189b2b\"><strong>a</strong>84cc5663ef2cfcd5a380e4acaa619ae13189b2b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ab171d407ae161edac39e4223e00a38092a70d66\"><strong>ab</strong>171d407ae161edac39e4223e00a38092a70d66</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/a617a593636293c6e708816f52df1cafeda54e35\">a617a593636293c6e708816f52df1<strong>cafe</strong>da54e35</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b201564e917910c4cafe28365bddffe104710e5d\">b201564e917910c4<strong>cafe</strong>28365bddffe104710e5d</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/bonnetal/commit/deadb359149c7e0fb8f5a96341cde09856f8b96b\"><strong>dead</strong>b359149c7e0fb8f5a96341cde09856f8b96b</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/0bcbadead177ef36c48fc104a32ec728942b8eae\">0bcba<strong>dead</strong>177ef36c48fc104a32ec728942b8eae</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/971c8df28fd65757ea162d45fe43d9dcdad0e974\">971c8df</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/f63f6b014f36ca16896d65fe3ad7e43f2a29d4e7\">f63f6b0</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml/commit/edebc51ec07ba283413dc6b33d8bffa7125f4fa0\">edebc51</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b284dd03951811d4a61373aed7fb2bf06348e399\">b284dd0</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/7aaedcd37255d1da498752edad5fffc1c737157b\">7aaedcd</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b5438c08c71d25e554a74e66f51715fe5a92eb98\">b5438c0</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 1925 times)\n2. add (used 487 times)\n3. files (used 218 times)\n4. via (used 202 times)\n5. upload (used 202 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/bd3bd905e32c9f514830a903e9cabf5718d1434f\">bd3bd90</a>: Fix endpoint name when replacing the service\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/c86b3cbf7f6aa9b05bb9708ca1b4438791efeeda\">c86b3cb</a>: Fix bug in find_model_server",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/69d05b5a4e4af232fa63523bfe6b68d48143c8a6\">69d05b5</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/69d05b5a4e4af232fa63523bfe6b68d48143c8a6\">69d05b5</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/roatienza/deep-text-recognition-benchmark/issues/20\">#20</a>: Poor performance on some images\n- <a href=\"https://github.com/gchq/Bailo/issues/143\">#143</a>: Docker build fails",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/zenml-io/zenml/pull/2376\">#2376</a>: Huggingface Model Deployer",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/83be4dec7cc5c4e2dddba8cd72da200a41aaf860\">83be4de</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/d3e53f92fe08d296d2058448b9c8b9aa5e3b2680\">d3e53f9</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/8ff0e94e55edd21b38604966aac707e05549b110\">8ff0e94</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/889d9ce515128244f1e97e3fc257c9bd213e7102\">889d9ce</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/68c48f3ab15ec4fc56a4102857ba96e76a71b6e9\">68c48f3</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/a1ae8652366aec3613c8b3bb0fd89db84eb4daea\">a1ae865</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/dudeperf3ct/DL_Notebooks\">dudeperf3ct/DL_Notebooks: ★89</a>\n* <a href=\"https://github.com/dudeperf3ct/16-rayserve-deploy\">dudeperf3ct/16-rayserve-deploy: ★11</a>\n* <a href=\"https://github.com/fuzzylabs/matcha-examples\">fuzzylabs/matcha-examples: ★9</a>\n* <a href=\"https://github.com/dudeperf3ct/Model-Deployment\">dudeperf3ct/Model-Deployment: ★7</a>\n* <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges\">dudeperf3ct/fellowship.ai-challenges: ★6</a>\n* <a href=\"https://github.com/dudeperf3ct/TextRecognizer\">dudeperf3ct/TextRecognizer: ★5</a>\n* <a href=\"https://github.com/ClimateMisinformation/Scrapers\">ClimateMisinformation/Scrapers: ★5</a>\n* <a href=\"https://github.com/dudeperf3ct/end-to-end-images\">dudeperf3ct/end-to-end-images: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/practical-mlops\">dudeperf3ct/practical-mlops: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag\">dudeperf3ct/reliable-agentic-rag: ★3</a>\n* <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation\">fuzzylabs/edge-vision-power-estimation: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/Slam-Lectures\">dudeperf3ct/Slam-Lectures: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/4-ml-fastapi-azure-serverless\">dudeperf3ct/4-ml-fastapi-azure-serverless: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/10-bentoml-deploy\">dudeperf3ct/10-bentoml-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/15-mlserver-deploy\">dudeperf3ct/15-mlserver-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/17-seldon-core-deploy\">dudeperf3ct/17-seldon-core-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/archive-blog\">dudeperf3ct/archive-blog: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/embedding-projector-standalone\">dudeperf3ct/embedding-projector-standalone: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/Competitions\">dudeperf3ct/Competitions: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/RL_Notebooks\">dudeperf3ct/RL_Notebooks: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/bonnetal\">dudeperf3ct/bonnetal: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/plant-app\">dudeperf3ct/plant-app: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/2-github-actions-makefile\">dudeperf3ct/2-github-actions-makefile: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/3-github-actions-docker\">dudeperf3ct/3-github-actions-docker: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/5-ml-fastapi-gcp-serverless\">dudeperf3ct/5-ml-fastapi-gcp-serverless: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/6-ml-fastapi-aws-serverless\">dudeperf3ct/6-ml-fastapi-aws-serverless: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/7-ml-fastapi-tests-aws-lambda\">dudeperf3ct/7-ml-fastapi-tests-aws-lambda: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/8-fastapi-tests-gcp-gke\">dudeperf3ct/8-fastapi-tests-gcp-gke: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/9-fastapi-kubernetes-monitoring\">dudeperf3ct/9-fastapi-kubernetes-monitoring: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/fastapi-docker-tdd\">dudeperf3ct/fastapi-docker-tdd: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/11-cortex-deploy\">dudeperf3ct/11-cortex-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/13-bodywork-train-deploy\">dudeperf3ct/13-bodywork-train-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/12-serverless-deploy\">dudeperf3ct/12-serverless-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/torchserve-huggingface-transformers\">dudeperf3ct/torchserve-huggingface-transformers: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/lightning-flash\">dudeperf3ct/lightning-flash: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/my-Module-0\">dudeperf3ct/my-Module-0: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/satflow\">dudeperf3ct/satflow: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/14-kserve-deploy\">dudeperf3ct/14-kserve-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/animal-app\">dudeperf3ct/animal-app: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/fuzzy-ai\">dudeperf3ct/fuzzy-ai: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/evidently-ai-monitoring\">dudeperf3ct/evidently-ai-monitoring: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/mlops-stacks\">dudeperf3ct/mlops-stacks: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/awesome-open-mlops\">dudeperf3ct/awesome-open-mlops: ★1</a>\n* <a href=\"https://github.com/fuzzylabs/mlops-best-practice-blogs\">fuzzylabs/mlops-best-practice-blogs: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/insurance-bot\">dudeperf3ct/insurance-bot: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/a485b1f3938dd1ee7c13f8db6ec9056390f1e9f0\">a485b1f</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/d10380a8d4656a85bdb3c9f3f82bca739f1a1ef4\">d10380a</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/ee81451616c791cb5dfc371e646e6041f8a924c5\">ee81451</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/d8febd36284db37bbb7f7955d7ae8dc8bc1d244d\">d8febd3</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/bd3bd905e32c9f514830a903e9cabf5718d1434f\">bd3bd90</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/0abaa15046ad6aa55fbd4a1cf7617fbc3aa78b64\">0abaa15</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/fd12e0031b66ec850c264789e3d6b85addf1ada7\">fd12e00</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/f305f4a915e4928ebacda16829115601020cab64\">f305f4a</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/6b9c44881cf4484bf03bde3b3d458135b69dabf1\">6b9c448</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/plant-app/commit/8379c9b6642eec6b8545890197e2588005507835\">8379c9b</a>\n- <a href=\"https://github.com/dudeperf3ct/11-cortex-deploy/commit/315444df2039fcbc9caee3b3868ce3d696fad8c5\">315444d</a>\n- <a href=\"https://github.com/dudeperf3ct/11-cortex-deploy/commit/8acb1c03470e46b77f2cf5d6b88239b63ae6e9ef\">8acb1c0</a>\n- <a href=\"https://github.com/dudeperf3ct/11-cortex-deploy/commit/64ed878c48222e002bf484ed7dfa3be5d7b53ab1\">64ed878</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b784d51012241ad9a0a641cf0557aac76ddc247c\">b784d51</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/cb56bdc46b1de600784dbcb880e853745f846b65\">cb56bdc</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/a1fb07f6e755c8662151350a206ce2c95739a82b\">a1fb07f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ee74140796d5b8c7607a7e31347f7a1762f443f2\">ee74140</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/6c0dc7292f157cb25025ef74ef2f91a6529e5edd\">6c0dc72</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/2923ca59c86e34e89d0f626d5187894392304bfd\">2923ca5</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/82c35eaaa5c7280702d9cf7ea828e453e7c3d2ba\">82c35ea</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/be1a4232a674ea8e7bd0eebdf3ed0db89d40f0a6\">be1a423</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
