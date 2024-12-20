@@ -11,10 +11,10 @@ Repos:
 * <a href="https://github.com/dudeperf3ct/fellowship.ai-challenges">dudeperf3ct/fellowship.ai-challenges: ★6</a>
 * <a href="https://github.com/dudeperf3ct/TextRecognizer">dudeperf3ct/TextRecognizer: ★5</a>
 * <a href="https://github.com/ClimateMisinformation/Scrapers">ClimateMisinformation/Scrapers: ★5</a>
+* <a href="https://github.com/fuzzylabs/edge-vision-power-estimation">fuzzylabs/edge-vision-power-estimation: ★4</a>
 * <a href="https://github.com/dudeperf3ct/end-to-end-images">dudeperf3ct/end-to-end-images: ★3</a>
 * <a href="https://github.com/dudeperf3ct/practical-mlops">dudeperf3ct/practical-mlops: ★3</a>
 * <a href="https://github.com/dudeperf3ct/reliable-agentic-rag">dudeperf3ct/reliable-agentic-rag: ★3</a>
-* <a href="https://github.com/fuzzylabs/edge-vision-power-estimation">fuzzylabs/edge-vision-power-estimation: ★3</a>
 * <a href="https://github.com/dudeperf3ct/Slam-Lectures">dudeperf3ct/Slam-Lectures: ★2</a>
 * <a href="https://github.com/dudeperf3ct/4-ml-fastapi-azure-serverless">dudeperf3ct/4-ml-fastapi-azure-serverless: ★2</a>
 * <a href="https://github.com/dudeperf3ct/10-bentoml-deploy">dudeperf3ct/10-bentoml-deploy: ★2</a>
@@ -49,6 +49,7 @@ Repos:
 * <a href="https://github.com/dudeperf3ct/awesome-open-mlops">dudeperf3ct/awesome-open-mlops: ★1</a>
 * <a href="https://github.com/fuzzylabs/mlops-best-practice-blogs">fuzzylabs/mlops-best-practice-blogs: ★1</a>
 * <a href="https://github.com/dudeperf3ct/insurance-bot">dudeperf3ct/insurance-bot: ★1</a>
+* <a href="https://github.com/dudeperf3ct/dudeperf3ct">dudeperf3ct/dudeperf3ct: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

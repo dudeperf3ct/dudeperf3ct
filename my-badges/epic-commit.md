@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/fuzzylabs/edge-vision-power-estimation/commit/6d8ac68acf65c3e6ee846ab27bd2bd9de0d997c7">6d8ac68</a>
 - <a href="https://github.com/fuzzylabs/edge-vision-power-estimation/commit/971c8df28fd65757ea162d45fe43d9dcdad0e974">971c8df</a>
 - <a href="https://github.com/fuzzylabs/edge-vision-power-estimation/commit/f63f6b014f36ca16896d65fe3ad7e43f2a29d4e7">f63f6b0</a>
 - <a href="https://github.com/dudeperf3ct/zenml/commit/edebc51ec07ba283413dc6b33d8bffa7125f4fa0">edebc51</a>
