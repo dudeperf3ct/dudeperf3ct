@@ -38,14 +38,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/b18905d52861c9c29f555af2e20d7b289598d859\">b18905d</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/6d8ac68acf65c3e6ee846ab27bd2bd9de0d997c7\">6d8ac68</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/971c8df28fd65757ea162d45fe43d9dcdad0e974\">971c8df</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/f63f6b014f36ca16896d65fe3ad7e43f2a29d4e7\">f63f6b0</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml/commit/edebc51ec07ba283413dc6b33d8bffa7125f4fa0\">edebc51</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b284dd03951811d4a61373aed7fb2bf06348e399\">b284dd0</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/7aaedcd37255d1da498752edad5fffc1c737157b\">7aaedcd</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b5438c08c71d25e554a74e66f51715fe5a92eb98\">b5438c0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/b18905d52861c9c29f555af2e20d7b289598d859\">b18905d</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/6d8ac68acf65c3e6ee846ab27bd2bd9de0d997c7\">6d8ac68</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/971c8df28fd65757ea162d45fe43d9dcdad0e974\">971c8df</a>\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/f63f6b014f36ca16896d65fe3ad7e43f2a29d4e7\">f63f6b0</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml/commit/edebc51ec07ba283413dc6b33d8bffa7125f4fa0\">edebc51</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b284dd03951811d4a61373aed7fb2bf06348e399\">b284dd0</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/7aaedcd37255d1da498752edad5fffc1c737157b\">7aaedcd</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b5438c08c71d25e554a74e66f51715fe5a92eb98\">b5438c0</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1942 times)\n2. add (used 501 times)\n3. files (used 218 times)\n4. via (used 202 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1955 times)\n2. add (used 505 times)\n3. files (used 218 times)\n4. via (used 202 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/fd12e0031b66ec850c264789e3d6b85addf1ada7\">fd12e00</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/f305f4a915e4928ebacda16829115601020cab64\">f305f4a</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/6b9c44881cf4484bf03bde3b3d458135b69dabf1\">6b9c448</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/edge-vision-power-estimation/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/fd12e0031b66ec850c264789e3d6b85addf1ada7\">fd12e00</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/f305f4a915e4928ebacda16829115601020cab64\">f305f4a</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -145,5 +145,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
