@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/NVIDIA/TensorRT-Model-Optimizer/issues/124">#124</a>: Issue while running `modelopt` on Jetson Orin
 - <a href="https://github.com/roatienza/deep-text-recognition-benchmark/issues/20">#20</a>: Poor performance on some images
 - <a href="https://github.com/gchq/Bailo/issues/143">#143</a>: Docker build fails
 
