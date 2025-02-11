@@ -11,7 +11,7 @@ Repos:
 * <a href="https://github.com/dudeperf3ct/fellowship.ai-challenges">dudeperf3ct/fellowship.ai-challenges: ★6</a>
 * <a href="https://github.com/dudeperf3ct/TextRecognizer">dudeperf3ct/TextRecognizer: ★5</a>
 * <a href="https://github.com/ClimateMisinformation/Scrapers">ClimateMisinformation/Scrapers: ★5</a>
-* <a href="https://github.com/fuzzylabs/ecomlops">fuzzylabs/ecomlops: ★4</a>
+* <a href="https://github.com/fuzzylabs/ecomlops">fuzzylabs/ecomlops: ★5</a>
 * <a href="https://github.com/dudeperf3ct/end-to-end-images">dudeperf3ct/end-to-end-images: ★3</a>
 * <a href="https://github.com/dudeperf3ct/practical-mlops">dudeperf3ct/practical-mlops: ★3</a>
 * <a href="https://github.com/dudeperf3ct/reliable-agentic-rag">dudeperf3ct/reliable-agentic-rag: ★3</a>
