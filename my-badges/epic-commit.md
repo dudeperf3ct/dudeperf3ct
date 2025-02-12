@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/fuzzylabs/ecomlops/commit/567d793486cf4e08fc3569bfc1e2fc7dc3c42c6e">567d793</a>
 - <a href="https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321">756a983</a>
 - <a href="https://github.com/fuzzylabs/ecomlops/commit/b18905d52861c9c29f555af2e20d7b289598d859">b18905d</a>
 - <a href="https://github.com/fuzzylabs/ecomlops/commit/6d8ac68acf65c3e6ee846ab27bd2bd9de0d997c7">6d8ac68</a>
