@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1981 times)\n2. add (used 530 times)\n3. files (used 218 times)\n4. via (used 202 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1987 times)\n2. add (used 533 times)\n3. files (used 218 times)\n4. via (used 202 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/69d05b5a4e4af232fa63523bfe6b68d48143c8a6\">69d05b5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/4f3c78c8831d3fa4fa330989b1b496d5170258dc\">4f3c78c</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -115,14 +115,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/a485b1f3938dd1ee7c13f8db6ec9056390f1e9f0\">a485b1f</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/d10380a8d4656a85bdb3c9f3f82bca739f1a1ef4\">d10380a</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/ee81451616c791cb5dfc371e646e6041f8a924c5\">ee81451</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/d8febd36284db37bbb7f7955d7ae8dc8bc1d244d\">d8febd3</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/bd3bd905e32c9f514830a903e9cabf5718d1434f\">bd3bd90</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/0abaa15046ad6aa55fbd4a1cf7617fbc3aa78b64\">0abaa15</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/a485b1f3938dd1ee7c13f8db6ec9056390f1e9f0\">a485b1f</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/d10380a8d4656a85bdb3c9f3f82bca739f1a1ef4\">d10380a</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/ee81451616c791cb5dfc371e646e6041f8a924c5\">ee81451</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/f829c38d28a746eadca4a002bbef77215ebe1bcc\">f829c38</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/bfc18016782b129e34e90a2f4685da3dc5295733\">bfc1801</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/d8febd36284db37bbb7f7955d7ae8dc8bc1d244d\">d8febd3</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/fd12e0031b66ec850c264789e3d6b85addf1ada7\">fd12e00</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml-projects/commit/f305f4a915e4928ebacda16829115601020cab64\">f305f4a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/46c3375e0b792ed4b64250ed2469fbb5afa01c36\">46c3375</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/220571697ef6f51506ff09ddf3090dd4bf2ffdd1\">2205716</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
