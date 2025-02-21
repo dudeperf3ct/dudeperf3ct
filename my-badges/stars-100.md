@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/dudeperf3ct/DL_Notebooks">dudeperf3ct/DL_Notebooks: ★91</a>
+* <a href="https://github.com/dudeperf3ct/DL_Notebooks">dudeperf3ct/DL_Notebooks: ★92</a>
 * <a href="https://github.com/dudeperf3ct/16-rayserve-deploy">dudeperf3ct/16-rayserve-deploy: ★11</a>
 * <a href="https://github.com/fuzzylabs/matcha-examples">fuzzylabs/matcha-examples: ★9</a>
 * <a href="https://github.com/dudeperf3ct/Model-Deployment">dudeperf3ct/Model-Deployment: ★7</a>
