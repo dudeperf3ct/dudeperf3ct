@@ -24,4 +24,5 @@
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/star-gazer.md"><img src="https://my-badges.github.io/my-badges/star-gazer.png" alt="I&apos;m a star gazer!" title="I&apos;m a star gazer!" width="64"></a>
+<a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <!-- my-badges end -->
