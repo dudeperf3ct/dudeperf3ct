@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1997 times)\n2. add (used 554 times)\n3. files (used 218 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1997 times)\n2. add (used 556 times)\n3. files (used 218 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/46c3375e0b792ed4b64250ed2469fbb5afa01c36\">46c3375</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/220571697ef6f51506ff09ddf3090dd4bf2ffdd1\">2205716</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/e02b8d59079dcb96434aba7503ddc02c3a671542\">e02b8d5</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/b8ed81225d7c2412d6650380208fd2654d6fa396\">b8ed812</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/46c3375e0b792ed4b64250ed2469fbb5afa01c36\">46c3375</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
