@@ -7,6 +7,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/NVIDIA/TensorRT-Model-Optimizer/issues/124">#124</a>: Issue while running `modelopt` on Jetson Orin
 - <a href="https://github.com/roatienza/deep-text-recognition-benchmark/issues/20">#20</a>: Poor performance on some images
 - <a href="https://github.com/gchq/Bailo/issues/143">#143</a>: Docker build fails
+- <a href="https://github.com/aws/aws-for-fluent-bit/issues/963">#963</a>: EKS Pod Identity Access Denied Exception
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
