@@ -47,6 +47,7 @@ Repos:
 * <a href="https://github.com/dudeperf3ct/mlops-stacks">dudeperf3ct/mlops-stacks: ★1</a>
 * <a href="https://github.com/dudeperf3ct/awesome-open-mlops">dudeperf3ct/awesome-open-mlops: ★1</a>
 * <a href="https://github.com/fuzzylabs/mlops-best-practice-blogs">fuzzylabs/mlops-best-practice-blogs: ★1</a>
+* <a href="https://github.com/kevin-hartman/llmops-stacks">kevin-hartman/llmops-stacks: ★1</a>
 * <a href="https://github.com/dudeperf3ct/insurance-bot">dudeperf3ct/insurance-bot: ★1</a>
 * <a href="https://github.com/dudeperf3ct/dudeperf3ct">dudeperf3ct/dudeperf3ct: ★1</a>
 
