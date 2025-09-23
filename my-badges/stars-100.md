@@ -5,8 +5,8 @@
 Repos:
 
 * <a href="https://github.com/dudeperf3ct/16-rayserve-deploy">dudeperf3ct/16-rayserve-deploy: ★12</a>
+* <a href="https://github.com/dudeperf3ct/Model-Deployment">dudeperf3ct/Model-Deployment: ★9</a>
 * <a href="https://github.com/fuzzylabs/matcha-examples">fuzzylabs/matcha-examples: ★9</a>
-* <a href="https://github.com/dudeperf3ct/Model-Deployment">dudeperf3ct/Model-Deployment: ★8</a>
 * <a href="https://github.com/fuzzylabs/ecomlops">fuzzylabs/ecomlops: ★8</a>
 * <a href="https://github.com/dudeperf3ct/fellowship.ai-challenges">dudeperf3ct/fellowship.ai-challenges: ★7</a>
 * <a href="https://github.com/dudeperf3ct/TextRecognizer">dudeperf3ct/TextRecognizer: ★5</a>
