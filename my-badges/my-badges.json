@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 2020 times)\n2. add (used 563 times)\n3. files (used 218 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 2020 times)\n2. add (used 564 times)\n3. files (used 218 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/zenml-io/zenml/pull/2376\">#2376</a>: Huggingface Model Deployer",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/fuzzylabs/matcha/pull/10\">#10</a>: [RPD-24] Create `matcha destroy` command",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
