@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dudeperf3ct/zenml-projects/commit/bd3bd905e32c9f514830a903e9cabf5718d1434f">bd3bd90</a>: Fix endpoint name when replacing the service
-- <a href="https://github.com/dudeperf3ct/zenml-projects/commit/c86b3cbf7f6aa9b05bb9708ca1b4438791efeeda">c86b3cb</a>: Fix bug in find_model_server
+- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/8797e490e023b98776608247e833dadd0f1bd6b1">8797e49</a>: Fix typos
+- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ea1235d734792c7d722826ae45895efbb3395937">ea1235d</a>: Fix equation rendering
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
