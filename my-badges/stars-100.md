@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/fuzzylabs/matcha-examples">fuzzylabs/matcha-examples: ★9</a>
 * <a href="https://github.com/fuzzylabs/ecomlops">fuzzylabs/ecomlops: ★8</a>
 * <a href="https://github.com/dudeperf3ct/fellowship.ai-challenges">dudeperf3ct/fellowship.ai-challenges: ★7</a>
-* <a href="https://github.com/dudeperf3ct/TextRecognizer">dudeperf3ct/TextRecognizer: ★5</a>
+* <a href="https://github.com/dudeperf3ct/TextRecognizer">dudeperf3ct/TextRecognizer: ★6</a>
 * <a href="https://github.com/ClimateMisinformation/Scrapers">ClimateMisinformation/Scrapers: ★5</a>
 * <a href="https://github.com/dudeperf3ct/end-to-end-images">dudeperf3ct/end-to-end-images: ★3</a>
 * <a href="https://github.com/dudeperf3ct/practical-mlops">dudeperf3ct/practical-mlops: ★3</a>
