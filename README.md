@@ -19,7 +19,6 @@
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 1 my own repositories." title="I&apos;ve starred 1 my own repositories." width="64"></a>
 <a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
