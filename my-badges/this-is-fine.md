@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/2">#2</a>: Challenge 2 solution
+- <a href="https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/4">#4</a>: Challenge 3 solution
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

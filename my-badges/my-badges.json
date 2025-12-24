@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 2032 times)\n2. add (used 567 times)\n3. files (used 219 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 2033 times)\n2. add (used 571 times)\n3. files (used 219 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -192,7 +192,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/2\">#2</a>: Challenge 2 solution",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/2\">#2</a>: Challenge 2 solution\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/4\">#4</a>: Challenge 3 solution",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
