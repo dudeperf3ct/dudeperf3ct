@@ -194,5 +194,19 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/2\">#2</a>: Challenge 2 solution\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/4\">#4</a>: Challenge 3 solution",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/4f0868f2c288df4993c671c877e819f723b7c2ca\">4f0868f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/5c1d7974b7110ee93196f64755f885811f0c3fda\">5c1d797</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/225e421b827796b98671383673ad6b66d8236563\">225e421</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/2656514936cf87f028ceeb00d99e2a7beeae0fe7\">2656514</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/567d54f193e2277397febedabf74ed9051865d40\">567d54f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b10c0d60f3ad73d55b470237bab092271b304f4b\">b10c0d6</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/2ca43221caaa85c18213e4596c9d2b552b3582c9\">2ca4322</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/077e72a0e3f485047d105e9f9191ded151fed8cd\">077e72a</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ff212e5fec6c0028d95d6f34b2ae4c37fc157520\">ff212e5</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b8dd63b6a071250049be4f6ce382df4d35009593\">b8dd63b</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ffbac083a42a25c0ba00403234f643d82609108f\">ffbac08</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/c629f3c5479d8185722b2ad8c8fa9696a9e197f1\">c629f3c</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
