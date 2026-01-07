@@ -208,5 +208,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/2ca43221caaa85c18213e4596c9d2b552b3582c9\">2ca4322</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/077e72a0e3f485047d105e9f9191ded151fed8cd\">077e72a</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ff212e5fec6c0028d95d6f34b2ae4c37fc157520\">ff212e5</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b8dd63b6a071250049be4f6ce382df4d35009593\">b8dd63b</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ffbac083a42a25c0ba00403234f643d82609108f\">ffbac08</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/c629f3c5479d8185722b2ad8c8fa9696a9e197f1\">c629f3c</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/de8aa21b6adb49bfb61ad729fc2e3e36755c5d46\">de8aa21</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
