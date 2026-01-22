@@ -182,13 +182,6 @@
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
