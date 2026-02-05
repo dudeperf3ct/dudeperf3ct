@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/fuzzylabs/matcha/pull/10">#10</a>: [RPD-24] Create `matcha destroy` command
+- <a href="https://github.com/zenml-io/zenml/pull/2376">#2376</a>: Huggingface Model Deployer
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
