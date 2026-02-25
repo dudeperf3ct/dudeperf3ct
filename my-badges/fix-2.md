@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/8797e490e023b98776608247e833dadd0f1bd6b1">8797e49</a>: Fix typos
-- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ea1235d734792c7d722826ae45895efbb3395937">ea1235d</a>: Fix equation rendering
+- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/8d79a1fef3cfbc6fa18607a8d9b826e141122394">8d79a1f</a>: fix formatting
+- <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/df6235ba9e2c625445788efb16b457aeb7f05e4e">df6235b</a>: fix wording
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
