@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 2045 times)\n2. add (used 575 times)\n3. files (used 219 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 2051 times)\n2. add (used 587 times)\n3. files (used 219 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/minicode-llm/commit/96e1787bad7c8449d4c0883f0860dcc1437cb335\">96e1787</a>\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/b1172b39260d3ec9e65cd586bf9eba7ea4e06ba0\">b1172b3</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/c32688b2e80ae37c795a098b376306f91f3a2f91\">c32688b</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ecdb645af313d0de797c0a3daadd13f246f9735b\">ecdb645</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ea98c1ab999fec28a5c6ce673ef226e42ab7674b\">ea98c1a</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/d46bf8f78724cbaceede1f9ce86a58a3bfe60e73\">d46bf8f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/llm-parallelism-pytorch/commit/11f417a74d565ce6d71644b91311080b8482aeed\">11f417a</a>\n- <a href=\"https://github.com/dudeperf3ct/minicode-llm/commit/96e1787bad7c8449d4c0883f0860dcc1437cb335\">96e1787</a>\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/b1172b39260d3ec9e65cd586bf9eba7ea4e06ba0\">b1172b3</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/c32688b2e80ae37c795a098b376306f91f3a2f91\">c32688b</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ecdb645af313d0de797c0a3daadd13f246f9735b\">ecdb645</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ea98c1ab999fec28a5c6ce673ef226e42ab7674b\">ea98c1a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -215,5 +215,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/890464eb55cd3de6d132efabe8fe7f08798423bb\">890464e</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
