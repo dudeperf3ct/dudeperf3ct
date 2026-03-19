@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/kevin-hartman/llmops-stacks">kevin-hartman/llmops-stacks: ★1</a>
 * <a href="https://github.com/dudeperf3ct/insurance-bot">dudeperf3ct/insurance-bot: ★1</a>
 * <a href="https://github.com/dudeperf3ct/dudeperf3ct">dudeperf3ct/dudeperf3ct: ★1</a>
+* <a href="https://github.com/dudeperf3ct/dudeperf3ct.github.io">dudeperf3ct/dudeperf3ct.github.io: ★1</a>
 * <a href="https://github.com/dudeperf3ct/logfire-examples">dudeperf3ct/logfire-examples: ★1</a>
 * <a href="https://github.com/dudeperf3ct/minicode-llm">dudeperf3ct/minicode-llm: ★1</a>
 
