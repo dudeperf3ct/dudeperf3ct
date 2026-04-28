@@ -91,13 +91,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
@@ -217,17 +210,17 @@
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io\">dudeperf3ct/dudeperf3ct.github.io</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/df411594a7fb6d38cdecf924b5a8df5fb3df69d2\">df41159</a>\n- <a href=\"https://github.com/dudeperf3ct/ephemeral-playground/commit/da423f9e06e0c06258655e012431121a64918e04\">da423f9</a>\n- <a href=\"https://github.com/dudeperf3ct/ephemeral-playground/commit/04225805da2c97952ad6ff60c27b85312e3d4700\">0422580</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/404228f08ca2c2e5c9821a90e0f768a3e96330e5\">404228f</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/9bddcb7113945f066682de605e9a9560a21fc44c\">9bddcb7</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/9631178fed76e38fc8c7a107460d63195292885e\">9631178</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
