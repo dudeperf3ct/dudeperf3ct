@@ -222,5 +222,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io\">dudeperf3ct/dudeperf3ct.github.io</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
