@@ -1,26 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/AI-for-Robotics/commit/a84cc5663ef2cfcd5a380e4acaa619ae13189b2b\"><strong>a</strong>84cc5663ef2cfcd5a380e4acaa619ae13189b2b</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ab171d407ae161edac39e4223e00a38092a70d66\"><strong>ab</strong>171d407ae161edac39e4223e00a38092a70d66</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/a617a593636293c6e708816f52df1cafeda54e35\">a617a593636293c6e708816f52df1<strong>cafe</strong>da54e35</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b201564e917910c4cafe28365bddffe104710e5d\">b201564e917910c4<strong>cafe</strong>28365bddffe104710e5d</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -28,53 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/dudeperf3ct/bonnetal/commit/deadb359149c7e0fb8f5a96341cde09856f8b96b\"><strong>dead</strong>b359149c7e0fb8f5a96341cde09856f8b96b</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/0bcbadead177ef36c48fc104a32ec728942b8eae\">0bcba<strong>dead</strong>177ef36c48fc104a32ec728942b8eae</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/llm-parallelism-pytorch/commit/933331ac86b3cd89dc03724f2bc2eefc6fdef42c\">933331a</a>\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/commit/a69122fd96e99125ee9964083904b21efef0078d\">a69122f</a>\n- <a href=\"https://github.com/dudeperf3ct/minicode-llm/commit/96e1787bad7c8449d4c0883f0860dcc1437cb335\">96e1787</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/0c8d30bd6326009c9ca4c771e6c627466e5b094c\">0c8d30b</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/567d793486cf4e08fc3569bfc1e2fc7dc3c42c6e\">567d793</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/b18905d52861c9c29f555af2e20d7b289598d859\">b18905d</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/6d8ac68acf65c3e6ee846ab27bd2bd9de0d997c7\">6d8ac68</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/971c8df28fd65757ea162d45fe43d9dcdad0e974\">971c8df</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/f63f6b014f36ca16896d65fe3ad7e43f2a29d4e7\">f63f6b0</a>\n- <a href=\"https://github.com/dudeperf3ct/zenml/commit/edebc51ec07ba283413dc6b33d8bffa7125f4fa0\">edebc51</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b284dd03951811d4a61373aed7fb2bf06348e399\">b284dd0</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/7aaedcd37255d1da498752edad5fffc1c737157b\">7aaedcd</a>\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/b5438c08c71d25e554a74e66f51715fe5a92eb98\">b5438c0</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 2055 times)\n2. add (used 607 times)\n3. files (used 219 times)\n4. via (used 204 times)\n5. upload (used 202 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/8d79a1fef3cfbc6fa18607a8d9b826e141122394\">8d79a1f</a>: fix formatting\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/df6235ba9e2c625445788efb16b457aeb7f05e4e\">df6235b</a>: fix wording",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/4f3c78c8831d3fa4fa330989b1b496d5170258dc\">4f3c78c</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/matcha-examples/commit/69d05b5a4e4af232fa63523bfe6b68d48143c8a6\">69d05b5</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "polite-coder",
@@ -91,48 +28,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   },
   {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/ea1235d734792c7d722826ae45895efbb3395937\">ea1235d</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/83be4dec7cc5c4e2dddba8cd72da200a41aaf860\">83be4de</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/d3e53f92fe08d296d2058448b9c8b9aa5e3b2680\">d3e53f9</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/8ff0e94e55edd21b38604966aac707e05549b110\">8ff0e94</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/889d9ce515128244f1e97e3fc257c9bd213e7102\">889d9ce</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/68c48f3ab15ec4fc56a4102857ba96e76a71b6e9\">68c48f3</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/dudeperf3ct/16-rayserve-deploy\">dudeperf3ct/16-rayserve-deploy: ★11</a>\n* <a href=\"https://github.com/dudeperf3ct/Model-Deployment\">dudeperf3ct/Model-Deployment: ★9</a>\n* <a href=\"https://github.com/fuzzylabs/matcha-examples\">fuzzylabs/matcha-examples: ★9</a>\n* <a href=\"https://github.com/fuzzylabs/ecomlops\">fuzzylabs/ecomlops: ★8</a>\n* <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges\">dudeperf3ct/fellowship.ai-challenges: ★7</a>\n* <a href=\"https://github.com/dudeperf3ct/TextRecognizer\">dudeperf3ct/TextRecognizer: ★6</a>\n* <a href=\"https://github.com/ClimateMisinformation/Scrapers\">ClimateMisinformation/Scrapers: ★5</a>\n* <a href=\"https://github.com/dudeperf3ct/end-to-end-images\">dudeperf3ct/end-to-end-images: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/practical-mlops\">dudeperf3ct/practical-mlops: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag\">dudeperf3ct/reliable-agentic-rag: ★3</a>\n* <a href=\"https://github.com/dudeperf3ct/Slam-Lectures\">dudeperf3ct/Slam-Lectures: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/4-ml-fastapi-azure-serverless\">dudeperf3ct/4-ml-fastapi-azure-serverless: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/10-bentoml-deploy\">dudeperf3ct/10-bentoml-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/15-mlserver-deploy\">dudeperf3ct/15-mlserver-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/17-seldon-core-deploy\">dudeperf3ct/17-seldon-core-deploy: ★2</a>\n* <a href=\"https://github.com/dudeperf3ct/archive-blog\">dudeperf3ct/archive-blog: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/embedding-projector-standalone\">dudeperf3ct/embedding-projector-standalone: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/Competitions\">dudeperf3ct/Competitions: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/RL_Notebooks\">dudeperf3ct/RL_Notebooks: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/bonnetal\">dudeperf3ct/bonnetal: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/plant-app\">dudeperf3ct/plant-app: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/2-github-actions-makefile\">dudeperf3ct/2-github-actions-makefile: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/3-github-actions-docker\">dudeperf3ct/3-github-actions-docker: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/5-ml-fastapi-gcp-serverless\">dudeperf3ct/5-ml-fastapi-gcp-serverless: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/6-ml-fastapi-aws-serverless\">dudeperf3ct/6-ml-fastapi-aws-serverless: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/7-ml-fastapi-tests-aws-lambda\">dudeperf3ct/7-ml-fastapi-tests-aws-lambda: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/8-fastapi-tests-gcp-gke\">dudeperf3ct/8-fastapi-tests-gcp-gke: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/9-fastapi-kubernetes-monitoring\">dudeperf3ct/9-fastapi-kubernetes-monitoring: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/fastapi-docker-tdd\">dudeperf3ct/fastapi-docker-tdd: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/11-cortex-deploy\">dudeperf3ct/11-cortex-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/13-bodywork-train-deploy\">dudeperf3ct/13-bodywork-train-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/12-serverless-deploy\">dudeperf3ct/12-serverless-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/torchserve-huggingface-transformers\">dudeperf3ct/torchserve-huggingface-transformers: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/lightning-flash\">dudeperf3ct/lightning-flash: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/my-Module-0\">dudeperf3ct/my-Module-0: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/satflow\">dudeperf3ct/satflow: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/14-kserve-deploy\">dudeperf3ct/14-kserve-deploy: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/animal-app\">dudeperf3ct/animal-app: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/fuzzy-ai\">dudeperf3ct/fuzzy-ai: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/evidently-ai-monitoring\">dudeperf3ct/evidently-ai-monitoring: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/mlops-stacks\">dudeperf3ct/mlops-stacks: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/awesome-open-mlops\">dudeperf3ct/awesome-open-mlops: ★1</a>\n* <a href=\"https://github.com/fuzzylabs/mlops-best-practice-blogs\">fuzzylabs/mlops-best-practice-blogs: ★1</a>\n* <a href=\"https://github.com/kevin-hartman/llmops-stacks\">kevin-hartman/llmops-stacks: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/insurance-bot\">dudeperf3ct/insurance-bot: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/dudeperf3ct\">dudeperf3ct/dudeperf3ct: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io\">dudeperf3ct/dudeperf3ct.github.io: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/logfire-examples\">dudeperf3ct/logfire-examples: ★1</a>\n* <a href=\"https://github.com/dudeperf3ct/minicode-llm\">dudeperf3ct/minicode-llm: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/4377d16232001ce65ee9bae08615c0a89e6cd25f\">4377d16</a>\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/a485b1f3938dd1ee7c13f8db6ec9056390f1e9f0\">a485b1f</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/d10380a8d4656a85bdb3c9f3f82bca739f1a1ef4\">d10380a</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/ee81451616c791cb5dfc371e646e6041f8a924c5\">ee81451</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/f829c38d28a746eadca4a002bbef77215ebe1bcc\">f829c38</a>\n- <a href=\"https://github.com/fuzzylabs/innovation-rag-search-retrieval/commit/bfc18016782b129e34e90a2f4685da3dc5295733\">bfc1801</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/93dd9396a973538a0180bb39c18ac90cc8c66bf8\">93dd939</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/63d1c1c6ea333b31a6d8759b7062ab9cb40fdf65\">63d1c1c</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/e02b8d59079dcb96434aba7503ddc02c3a671542\">e02b8d5</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/9e7ea7c85428de51e137358f9e026fbbd268e8c7\">9e7ea7c</a>\n- <a href=\"https://github.com/dudeperf3ct/reliable-agentic-rag/commit/2791efab3a8f908828559ad8d9c1b414ae5ae5b0\">2791efa</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/rust-projects/commit/328484c6d86701473e72eb33acac3968ad8430c5\">328484c</a>\n- <a href=\"https://github.com/dudeperf3ct/rust-projects/commit/a77a6734438d960336ba6e413e3c8db65733760e\">a77a673</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/df411594a7fb6d38cdecf924b5a8df5fb3df69d2\">df41159</a>\n- <a href=\"https://github.com/dudeperf3ct/llm-parallelism-pytorch/commit/11f417a74d565ce6d71644b91311080b8482aeed\">11f417a</a>\n- <a href=\"https://github.com/dudeperf3ct/minicode-llm/commit/96e1787bad7c8449d4c0883f0860dcc1437cb335\">96e1787</a>\n- <a href=\"https://github.com/dudeperf3ct/aoc/commit/b1172b39260d3ec9e65cd586bf9eba7ea4e06ba0\">b1172b3</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/a1fb07f6e755c8662151350a206ce2c95739a82b\">a1fb07f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ee74140796d5b8c7607a7e31347f7a1762f443f2\">ee74140</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/6c0dc7292f157cb25025ef74ef2f91a6529e5edd\">6c0dc72</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/2923ca59c86e34e89d0f626d5187894392304bfd\">2923ca5</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/82c35eaaa5c7280702d9cf7ea828e453e7c3d2ba\">82c35ea</a>\n- <a href=\"https://github.com/dudeperf3ct/fellowship.ai-challenges/commit/be1a4232a674ea8e7bd0eebdf3ed0db89d40f0a6\">be1a423</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
@@ -147,13 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/llm-parallelism-pytorch/commit/27565206b13d65b2bab30bbf75a851171aceec2d\">2756520</a>\n- <a href=\"https://github.com/dudeperf3ct/llm-parallelism-pytorch/commit/1d518fdeae861dcb54ec0a79d3a615afe5b5f558\">1d518fd</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/93591d6362077776799ad0f1efd5e422518ead44\">93591d6</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/dbaba2517fb67d761ab97ed5a369630251d86f94\">dbaba25</a>\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/b51c03e074bbc6a6a38ee14ba19c3cef7033e357\">b51c03e</a>\n- <a href=\"https://github.com/dudeperf3ct/insurance-bot/commit/7f6f70a991946c48cc210ebcceb002b5bb29748f\">7f6f70a</a>\n- <a href=\"https://github.com/dudeperf3ct/PreSumm/commit/776f6e82631b81c58652eda88ea38c37f81667bb\">776f6e8</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/015cb05122468709b987c54448e944cf073494b9\">015cb05</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/c3b14efaad4fb9711cc506f3b89b23d3663044ca\">c3b14ef</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/83b53f9a9818bfbbb2a025558dfde6e8ac8a8037\">83b53f9</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
     "id": "star-gazer",
     "tier": 0,
     "desc": "I'm a star gazer!",
@@ -161,60 +49,11 @@
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
   },
   {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/ultra-scale-experiments/commit/72e0e478ccb2ba9b10e47f2590aab487e5894a93\">72e0e47</a>: chore: Improve readme",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/93dd9396a973538a0180bb39c18ac90cc8c66bf8\">93dd939</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/63d1c1c6ea333b31a6d8759b7062ab9cb40fdf65\">63d1c1c</a>\n- <a href=\"https://github.com/dudeperf3ct/web-vibe/commit/acc6bbfa78a7d3cecaeeab97e46703e2afb5e287\">acc6bbf</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/015cb05122468709b987c54448e944cf073494b9\">015cb05</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/c3b14efaad4fb9711cc506f3b89b23d3663044ca\">c3b14ef</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/83b53f9a9818bfbbb2a025558dfde6e8ac8a8037\">83b53f9</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/2\">#2</a>: Challenge 2 solution\n- <a href=\"https://github.com/dudeperf3ct/open-ecosystem-challenges/pull/4\">#4</a>: Challenge 3 solution",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/4f0868f2c288df4993c671c877e819f723b7c2ca\">4f0868f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/5c1d7974b7110ee93196f64755f885811f0c3fda\">5c1d797</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/225e421b827796b98671383673ad6b66d8236563\">225e421</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/2656514936cf87f028ceeb00d99e2a7beeae0fe7\">2656514</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/567d54f193e2277397febedabf74ed9051865d40\">567d54f</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b10c0d60f3ad73d55b470237bab092271b304f4b\">b10c0d6</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/2ca43221caaa85c18213e4596c9d2b552b3582c9\">2ca4322</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/077e72a0e3f485047d105e9f9191ded151fed8cd\">077e72a</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ff212e5fec6c0028d95d6f34b2ae4c37fc157520\">ff212e5</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/b8dd63b6a071250049be4f6ce382df4d35009593\">b8dd63b</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/ffbac083a42a25c0ba00403234f643d82609108f\">ffbac08</a>\n- <a href=\"https://github.com/dudeperf3ct/DL_Notebooks/commit/c629f3c5479d8185722b2ad8c8fa9696a9e197f1\">c629f3c</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/de8aa21b6adb49bfb61ad729fc2e3e36755c5d46\">de8aa21</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/fuzzylabs/ecomlops/commit/756a983444fc2db431f5d727be1e7c1ea3c5d321\">756a983</a>\n- <a href=\"https://github.com/dudeperf3ct/archive-blog/commit/890464eb55cd3de6d132efabe8fe7f08798423bb\">890464e</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/df411594a7fb6d38cdecf924b5a8df5fb3df69d2\">df41159</a>\n- <a href=\"https://github.com/dudeperf3ct/ephemeral-playground/commit/da423f9e06e0c06258655e012431121a64918e04\">da423f9</a>\n- <a href=\"https://github.com/dudeperf3ct/ephemeral-playground/commit/04225805da2c97952ad6ff60c27b85312e3d4700\">0422580</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/404228f08ca2c2e5c9821a90e0f768a3e96330e5\">404228f</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/9bddcb7113945f066682de605e9a9560a21fc44c\">9bddcb7</a>\n- <a href=\"https://github.com/dudeperf3ct/dudeperf3ct.github.io/commit/9631178fed76e38fc8c7a107460d63195292885e\">9631178</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
     "id": "public-keys-1",
