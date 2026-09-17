@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/axolotl-ai-cloud/axolotl/issues/3971">#3971</a>: Async GRPO fails with `num_tiles` when data producer and prefetch are enabled
 - <a href="https://github.com/roatienza/deep-text-recognition-benchmark/issues/20">#20</a>: Poor performance on some images
 - <a href="https://github.com/gchq/Bailo/issues/143">#143</a>: Docker build fails
 - <a href="https://github.com/aws/aws-for-fluent-bit/issues/963">#963</a>: EKS Pod Identity Access Denied Exception
 - <a href="https://github.com/NVIDIA/Model-Optimizer/issues/124">#124</a>: Issue while running `modelopt` on Jetson Orin
+- <a href="https://github.com/axolotl-ai-cloud/axolotl/issues/3959">#3959</a>: `vllm-serve` ignores `revision_of_model` and loads the default Hugging Face main branch
 
  And many more...
 
